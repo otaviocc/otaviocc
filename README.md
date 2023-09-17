@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m **Otávio** (/O-TAH-vi-o/), a Physicist and Software Engineer from Brazil 🇧🇷 living abroad for 10 years 🇺🇸 🇩🇪. I build software for macOS and iOS, after years working with Linux and Embedded Systems.
+I'm **Otávio** (pronounced *O-TAH-vee-o*), a Physicist and Software Engineer hailing from Brazil 🇧🇷 but now calling the United States 🇺🇸 and Germany 🇩🇪 my home for the past decade. My expertise lies in crafting software tailored for macOS and iOS, although I spent several years honing my skills in the realms of Linux and Embedded Systems.
 
-For all my links, check [otavio.lol](https://otavio.lol). For a snapshot of my life, my [/now](https://otavio.lol/now) page.
+For all the links you might need, simply head over to [otavio.lol](http://otavio.lol). And if you're curious about a snapshot of my life, you can find it on my [/now page](http://otavio.lol/now).
 
 <!--
 - 🔭 I’m currently working on ...
