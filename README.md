@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I'm Otávio (pronounced _O-TAH-vee-o_), a Physicist and Software Engineer from Brazil, now residing abroad for over ten years. My professional focus is on developing software for macOS and iOS, though I have significant experience with Linux and Embedded Systems as well.
 
